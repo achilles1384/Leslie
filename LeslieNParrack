@@ -1,77 +1,52 @@
-
-
-
-
-
-
+<!DOCTYPE html>
 <html>
-        <head>
-<style>
-
-body {
-        background-image: url('leslie dark.jpg');
-        background-repeat: no-repeat;
-        background-size: 38%;
-        background-attachment: center;
-        background-position: right;
-        animation: rotateBackground 180s infinite;
-}
-        @keyframes rotateBackground {
-                0% {
-                        background-image: url('leslie dark.jpg');
-                }
-                8% {
-                        background-image: url('us.jpg')
-                }
-                16% {
-                        background-image: url('leslie rodney.jpg')
-                }
-                24% {
-                        background-image: url('family xmas night.jpg')
-                }
-                32% {
-                        background-image: url('leslie red.jpg')
-                }
-                40% {
-                        background-image: url('leslie kids xmas1.jpg')
-                }
-                48% {
-                        background-image: url('5 generation all.jpg')
-                }
-                56% {
-                        background-image: url('leslie bathroom13.jpg')
-                }
-                64% {
-                        background-image: url('leslie car4.jpg')
-                }
-                72% {
-                        background-image: url('leslie outside4.jpg')
-                }
-                80% {
-                        background-image: url('leslie bathroom8.jpg')
-                }
-                88% {
-                        background-image: url('all 5 3.jpg')
-                }
-                100% {
-                        background-image: url('leslie dark.jpg')
-                }
-
-
-</style>
-        </head>
-
-
 <head>
-                    <title>Leslie Nichole Parrack</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leslie Nichole Parrack</title>
+    <style>
+        body {
+                background-image: url('dolphin ocean.jpg');
+                background-position: center;
+                background-repeat: no-repeat;
+
+
+            background-image: url('leslie dark.jpg');
+            background-repeat: no-repeat;
+            background-size: 38%;
+            background-attachment: center;
+            background-position: right top;
+            animation: rotateBackground 180s infinite;
+        }
+
+        @keyframes rotateBackground {
+            0% { background-image: url('leslie dark.jpg'); }
+            8% { background-image: url('us.jpg'); }
+            16% { background-image: url('leslie rodney.jpg'); }
+            24% { background-image: url('family xmas night.jpg'); }
+            32% { background-image: url('leslie red.jpg'); }
+            40% { background-image: url('leslie kids xmas.jpg'); }
+            48% { background-image: url('5 gen all.jpg'); }
+            56% { background-image: url('leslie bathroom 13.jpg'); }
+            64% { background-image: url('leslie car 4.jpg'); }
+            72% { background-image: url('leslie outside 4.jpg'); }
+            80% { background-image: url('leslie bathroom 8.jpg'); }
+            88% { background-image: url('all 5 3.jpg'); }
+            100% { background-image: url('leslie dark.jpg'); }
+        }
+
+        h1 {
+            color: blue;
+            text-align: center;
+        }
+    </style>
 </head>
+<body>
+
+<h1>Leslie Nichole Parrack</h1>
 
 <p>Welcome to this page to let you know a little about myself and how i lived my life before some
 unfortunate events cut things short.</p>
-
-
-
-
 
 
 
@@ -90,8 +65,6 @@ Leslies' Gofundme Page if you wish to donate to the family directly
 
 Leslies' Obituary if you wish to donate a tree in her honor
 <p>Click <a href="https://www.hudsontorres.com/obituaries/leslie-parrack?fbclid=IwAR1ewfCwqWT1AY2Du2GL-xC31lKdjx28vr03UUWqiNUCQiDKQVgZv1rVxYA">Leslies' Obituary</a> </p>
-
-
 
 
 <p>This page was created by my Husband Kyle Parrack for family and friends to come back to and see anytime
